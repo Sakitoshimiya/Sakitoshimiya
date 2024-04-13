@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Pytorch, Python, Godot and C#**
 
-- 📫 How to reach me **sakitoshimiya@gmail.com**
+- 📫 How to reach me [**on my discord**](https://discordapp.com/users/1109382376762654810)
 
 - ⚡ Fun fact **i'm not a dev, just a dumb student with the smallest programming knowleadge**
 
